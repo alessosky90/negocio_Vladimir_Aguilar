@@ -1,0 +1,14 @@
+# Dependencias de Node
+node_modules/
+
+# Variables de entorno
+.env
+.env.local
+
+# Archivos de bloqueo
+package-lock.json
+yarn.lock
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
